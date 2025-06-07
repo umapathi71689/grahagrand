@@ -1,0 +1,54 @@
+:root {
+  --dark: #0a0a0a;
+  --darker: #000000;
+  --light: #ffffff;
+  --gray: #a3a3a3;
+  --gray-dark: #737373;
+  --accent: #eab308;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.bg-var\(--dark\) {
+  background-color: var(--dark);
+}
+
+.bg-var\(--darker\) {
+  background-color: var(--darker);
+}
+
+.bg-var\(--light\) {
+  background-color: var(--light);
+}
+
+.text-var\(--dark\) {
+  color: var(--dark);
+}
+
+.text-var\(--darker\) {
+  color: var(--darker);
+}
+
+.text-var\(--light\) {
+  color: var(--light);
+}
+
+.text-var\(--accent\) {
+  color: var(--accent);
+}
+
+.border-var\(--gray\) {
+  border-color: var(--gray);
+}
+
+.hover\:bg-var\(--dark\):hover {
+  background-color: var(--dark);
+}
+
+.hover\:text-var\(--accent\):hover {
+  color: var(--accent);
+}
+
+/* Add other utility classes as needed */
