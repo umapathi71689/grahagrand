@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/GrahaGrand/static/css/main.4d74fec0.css",
-    "main.js": "/GrahaGrand/static/js/main.70749862.js",
+    "main.js": "/GrahaGrand/static/js/main.c45d0a27.js",
     "static/css/471.f28983b8.chunk.css": "/GrahaGrand/static/css/471.f28983b8.chunk.css",
     "static/js/471.93a1aae0.chunk.js": "/GrahaGrand/static/js/471.93a1aae0.chunk.js",
     "static/css/832.c6d21248.chunk.css": "/GrahaGrand/static/css/832.c6d21248.chunk.css",
@@ -29,7 +29,7 @@
     "static/media/slide2.jpg": "/GrahaGrand/static/media/slide2.508113ee57ca24c888a0.jpg",
     "index.html": "/GrahaGrand/index.html",
     "main.4d74fec0.css.map": "/GrahaGrand/static/css/main.4d74fec0.css.map",
-    "main.70749862.js.map": "/GrahaGrand/static/js/main.70749862.js.map",
+    "main.c45d0a27.js.map": "/GrahaGrand/static/js/main.c45d0a27.js.map",
     "471.f28983b8.chunk.css.map": "/GrahaGrand/static/css/471.f28983b8.chunk.css.map",
     "471.93a1aae0.chunk.js.map": "/GrahaGrand/static/js/471.93a1aae0.chunk.js.map",
     "832.c6d21248.chunk.css.map": "/GrahaGrand/static/css/832.c6d21248.chunk.css.map",
@@ -49,6 +49,6 @@
   },
   "entrypoints": [
     "static/css/main.4d74fec0.css",
-    "static/js/main.70749862.js"
+    "static/js/main.c45d0a27.js"
   ]
 }
